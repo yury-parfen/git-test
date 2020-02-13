@@ -1,1 +1,2 @@
 Some feature
+text from branch A
